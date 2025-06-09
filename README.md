@@ -34,8 +34,6 @@ This app supports filtering, pagination, character details, and a modern UI with
 - [React](https://reactjs.org/)
 - JavaScript (ES6+)
 - [Rick and Morty API](https://rickandmortyapi.com/)
-- [react-loader-spinner](https://www.npmjs.com/package/react-loader-spinner)
-
 ---
 
 ## 📦 Getting Started
